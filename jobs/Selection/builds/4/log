@@ -1,0 +1,16 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/Selection
+[Selection] $ /home/jenkins/.jenkins/tools/hudson.tasks.Ant_AntInstallation/Box/bin/ant
+Buildfile: /home/jenkins/.jenkins/workspace/Selection/build.xml
+
+[8mha:////4KxxlCaq+jGuy5D/u3/lUwumXZ918bWTv6dwec80U/v0AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minit:
+
+[8mha:////4KxxlCaq+jGuy5D/u3/lUwumXZ918bWTv6dwec80U/v0AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mcompile:
+    [javac] /home/jenkins/.jenkins/workspace/Selection/build.xml:16: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+[8mha:////4KxxlCaq+jGuy5D/u3/lUwumXZ918bWTv6dwec80U/v0AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mwar:
+
+[8mha:////4PaZSsSFf+DdmfG8v9C0t8XBHrBuqadUnUcqbqajJvE/AAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 0 seconds
+Finished: SUCCESS

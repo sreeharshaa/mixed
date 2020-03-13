@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4AWgkNNi5nqxdTcencRvLtuCW7vydcxG+jmKnYrKaiKMAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2CovwsI30AjHhIqcAAAAA=[0mproj2" build number [8mha:////4PYrw2/u0+X6ZMwAK/NmRbyJM8k6rkCzrn9ntQJ+VCSZAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwk/YKi/CwjfUMAGyI5zsEAAAA=[0m1
+originally caused by:
+ Started by upstream project "[8mha:////4HH4ZHAZuq7l2MctR8hxEbLKzWq8EJLsbOf1gtxU7ddCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2CovwsQ30ATytlgsAAAAA=[0mproj1" build number [8mha:////4IyNECN5weapDu2dmLbQZSkJSTIhj80rWE5NR0TdYgcgAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwk/YKi/CxDfUMAQpx/zMEAAAA=[0m1
+ originally caused by:
+  Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/proj3
+[proj3] $ /bin/sh -xe /tmp/jenkins6779069052200995947.sh
++ rm -rf /home/jenkins/dir1
+Finished: SUCCESS

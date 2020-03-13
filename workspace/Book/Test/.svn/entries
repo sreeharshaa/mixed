@@ -1,0 +1,89 @@
+8
+
+dir
+5
+https://svn.riouxsvn.com/maintain
+https://svn.riouxsvn.com/maintain
+
+
+
+2020-01-27T05:33:49.333846Z
+5
+sreeharshaa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+faee9d15-2e69-4b6e-b77d-40e1f1d7c40e
+
+2.txt
+file
+
+
+
+
+2020-01-27T06:05:04.745000Z
+3069db8cfdb7d03aa7a79e8476fa8f0e
+2020-01-22T05:45:13.704263Z
+3
+sreeharshaa
+has-props
+
+branches
+dir
+
+file1
+file
+
+
+
+
+2020-01-27T06:05:04.746000Z
+315364936abbc3e064841545ddca351b
+2020-01-22T05:45:13.704263Z
+3
+sreeharshaa
+has-props
+
+file2
+file
+
+
+
+
+2020-01-27T06:05:04.747000Z
+46c6fa66679a0e55f7e5d82a48c81aff
+2020-01-27T05:33:49.333846Z
+5
+sreeharshaa
+has-props
+
+selection
+file
+
+
+
+
+2020-01-27T06:05:04.748000Z
+1a3e7e650c8cd5dd51a84cf84fd66f5c
+2020-01-27T05:33:49.333846Z
+5
+sreeharshaa
+has-props
+
+tags
+dir
+
+trunk
+dir
+

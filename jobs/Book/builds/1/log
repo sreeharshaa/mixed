@@ -1,0 +1,10 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/Book
+Checking out a fresh workspace because /home/jenkins/.jenkins/workspace/Book/Test doesn't exist
+Cleaning local Directory Test
+Checking out https://svn.riouxsvn.com/maintain at revision '2020-01-27T06:05:02.052 +0000' --quiet
+Using sole credentials sreeharshaa/****** in realm ‘<https://svn.riouxsvn.com:443> RiouxSVN’
+At revision 5
+
+Finished: SUCCESS

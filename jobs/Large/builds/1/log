@@ -1,0 +1,25 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/Large
+using credential 8b666cb3-6d70-40fb-9428-7b87947e5413
+Cloning the remote Git repository
+Cloning repository https://github.com/sreeharshaa/GIT
+ > git init /home/jenkins/.jenkins/workspace/Large # timeout=10
+Fetching upstream changes from https://github.com/sreeharshaa/GIT
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- https://github.com/sreeharshaa/GIT +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sreeharshaa/GIT # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sreeharshaa/GIT # timeout=10
+Fetching upstream changes from https://github.com/sreeharshaa/GIT
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- https://github.com/sreeharshaa/GIT +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 19e95c11c9055c7b28e80bf1fd9293e4000b9a66 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 19e95c11c9055c7b28e80bf1fd9293e4000b9a66 # timeout=10
+Commit message: "Merge branch 'master' of https://github.com/sreeharshaa/GIT"
+First time build. Skipping changelog.
+Finished: SUCCESS

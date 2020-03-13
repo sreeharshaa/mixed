@@ -1,0 +1,7 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/proj3
+[proj3] $ /bin/sh -xe /tmp/jenkins7334354138542900846.sh
++ cd /home/jenkins/dir11
++ rm -rf file1 file2
+Finished: SUCCESS

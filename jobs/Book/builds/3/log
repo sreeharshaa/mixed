@@ -1,0 +1,10 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/Book
+Updating https://svn.riouxsvn.com/maintain at revision '2020-01-28T05:34:22.683 +0000' --quiet
+Using sole credentials sreeharshaa/****** in realm ‘<https://svn.riouxsvn.com:443> RiouxSVN’
+At revision 5
+
+No changes for https://svn.riouxsvn.com/maintain since the previous build
+ERROR: Unable to find build script at /home/jenkins/.jenkins/workspace/Book/Test/build.xml
+Finished: FAILURE

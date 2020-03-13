@@ -1,0 +1,23 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/Project
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/sreeharshaa/GIT.git
+ > git init /home/jenkins/.jenkins/workspace/Project # timeout=10
+Fetching upstream changes from https://github.com/sreeharshaa/GIT.git
+ > git --version # timeout=10
+ > git fetch --tags --progress -- https://github.com/sreeharshaa/GIT.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sreeharshaa/GIT.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sreeharshaa/GIT.git # timeout=10
+Fetching upstream changes from https://github.com/sreeharshaa/GIT.git
+ > git fetch --tags --progress -- https://github.com/sreeharshaa/GIT.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/Test^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/Test^{commit} # timeout=10
+Checking out Revision 0928dc3e73667b8886c59fbdaa8f2ff7df0509b8 (refs/remotes/origin/Test)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 0928dc3e73667b8886c59fbdaa8f2ff7df0509b8 # timeout=30
+Commit message: "message"
+First time build. Skipping changelog.
+Finished: SUCCESS

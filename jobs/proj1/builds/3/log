@@ -1,0 +1,22 @@
+Started by user [8mha:////4ADBaL/0fArlrv/uh6n5T8waVA1uf9uRwSYCOwobJIOOAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZB/dLi1CL94qLU1IzEouKMxEQAxNN5zsYAAAA=[0msreeharsha
+Running as SYSTEM
+Building in workspace /home/jenkins/.jenkins/workspace/proj1
+using credential 8b666cb3-6d70-40fb-9428-7b87947e5413
+Cloning the remote Git repository
+Cloning repository https://github.com/sreeharshaa/Sreeharsha.git
+ > git init /home/jenkins/.jenkins/workspace/proj1 # timeout=10
+Fetching upstream changes from https://github.com/sreeharshaa/Sreeharsha.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- https://github.com/sreeharshaa/Sreeharsha.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sreeharshaa/Sreeharsha.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sreeharshaa/Sreeharsha.git # timeout=10
+Fetching upstream changes from https://github.com/sreeharshaa/Sreeharsha.git
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- https://github.com/sreeharshaa/Sreeharsha.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+ > git rev-parse origin/master^{commit} # timeout=10
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+Finished: FAILURE

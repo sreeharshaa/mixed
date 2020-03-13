@@ -1,0 +1,5 @@
+---
+- hosts: RHEL
+  tasks: 
+  - name: exe comm
+    yum: name=java state=updated
